@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gabriel Soares
+- 👀 I’m interested in Working in programming and developing my skills in the area of technology.
+- 🌱 I’m currently learning Java as the primary language and I'm Studing Information Systems at FIAP.
+- 💞️ I’m looking to collaborate on Aprimoring my abilities at programming and learning continuously.
+- 📫 How to reach me linkedin - https://www.linkedin.com/in/gabriel-soares-santos/ ; e-mail - gasoares03@gmail.com
