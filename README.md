@@ -15,4 +15,7 @@
   <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresssg&layout=compact&theme=dark" />
 </a>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
