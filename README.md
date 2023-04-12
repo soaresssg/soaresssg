@@ -14,3 +14,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresssg&layout=compact&theme=dark" />
 </a>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
