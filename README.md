@@ -8,7 +8,7 @@
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=soaresssg&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresssg&theme=dark" />
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresssg&theme=dark&layout=compact" />
 </a>
 
 
