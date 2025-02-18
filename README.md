@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java | HTML | CSS | Javascript 
+- 🌱 I’m currently learning Python | HTML | CSS | Javascript 
 - 📫 How to reach me: e-mail: gasoares03@gmail.com  linkedin: https://www.linkedin.com/in/gabriel-soares-santos/
 
 
